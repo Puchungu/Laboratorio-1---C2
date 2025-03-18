@@ -31,7 +31,7 @@
                         <td>{$row['nombre']}</td>
                         <td>{$row['carnet']}</td>
                         <td>{$row['fechanac']}</td>
-                        <td><a href='eliminar.php?id={$row['id']}'><button>Eliminar</button></a></td>
+                        <td><a href='eliminar.php?id={$row['id']}' onclick='return confirm(\"¿Eliminar registro?\")'><button>Eliminar</button></a></td>
                         <td><a href='editar.php?id={$row['id']}'><button>Editar</button></a></td>
                     </tr>  
                 ");

@@ -53,7 +53,7 @@
             <h1>Universidad Gerardo Barrios</h1>
         </div>
         <div id="Facultad">
-            <p> Codigo de estudiantes: SMSS127921, SMSS035723</p>
+            <p> Codigo de estudiantes: SMSS127921, SMSS040923</p>
             <p>Carrera: Ingenieria en sistemas y redes informaticas</p>
         </div>
     </div>
